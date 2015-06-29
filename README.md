@@ -1,2 +1,2 @@
 # MicroServer-IPMI
-You can easily access to your MicroServer's administration page than usual.
+ You can easily open to your MicroServer's administration window than usual.
